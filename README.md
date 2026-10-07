@@ -21,6 +21,7 @@ Through automated data cleaning workflows, exploratory statistical modeling, and
 * **Database & Storage:** MySQL / CSV Data Lakes
 
 Python Script Preview
+
 [![Python Script Preview](Images/script_screenshot.png)](Images/supply_cleaned.ipynb)
 
 ---
