@@ -55,7 +55,7 @@ Supply Chain Performance Dashboard
 
 ## Supply Chain Presentation
 
-[](Images/Global Supply Chain Presentation.pdf)
+[View Global Supply Chain Presentation(PDF)](Images/Global%20Supply%20Chain%20Presentation.pdf)
 
 ---
 
