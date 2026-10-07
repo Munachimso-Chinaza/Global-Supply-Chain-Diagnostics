@@ -19,6 +19,7 @@ Through automated data cleaning workflows, exploratory statistical modeling, and
 * **Statistical Modeling & ML:** Python (`Scikit-Learn`, `SciPy`, `Statsmodels`)
 * **Data Visualization & Business Intelligence:** Tableau Desktop / Public, `Matplotlib`, `Seaborn`
 * **Database & Storage:** MySQL / CSV Data Lakes
+
 Python Script Preview
 [![Python Script Preview](Images/script_screenshot.png)](Images/supply_cleaned.ipynb)
 
