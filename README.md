@@ -20,7 +20,7 @@ Through automated data cleaning workflows, exploratory statistical modeling, and
 * **Data Visualization & Business Intelligence:** Tableau Desktop / Public, `Matplotlib`, `Seaborn`
 * **Database & Storage:** MySQL / CSV Data Lakes
 
-[![Python Script Preview](Images/script_screenshot.png)](supply_cleaned.ipynb)
+[![Python Script Preview](Images/script_screenshot.png)](Images/supply_cleaned.ipynb)
 
 ---
 
