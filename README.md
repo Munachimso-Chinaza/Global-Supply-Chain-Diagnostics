@@ -38,6 +38,8 @@ Through automated data cleaning workflows, exploratory statistical modeling, and
 * Built predictive risk models to anticipate shipping delays before orders leave the distribution center.
 * Developed an interactive **Tableau Supply Chain Performance Dashboard** for real-time monitoring of delivery performance, shipping cost allocations, and fulfillment SLAs.
 
+[![Supply Chain Performance Dashboard](Images/Dashboard.ipynb)](https://public.tableau.com/views/GlobalSupplyChainDiagnostics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## Key Insights
