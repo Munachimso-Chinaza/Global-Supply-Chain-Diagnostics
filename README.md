@@ -22,7 +22,7 @@ Through automated data cleaning workflows, exploratory statistical modeling, and
 
 Python Script Preview
 
-[![Python Script Preview](Images/script_screenshot.png)](https://github.com/Munachimso-Chinaza/Global-Supply-Chain-Diagnostics)
+[![Python Script Preview](Images/script_screenshot.png)](https://github.com/Munachimso-Chinaza/Global-Supply-Chain-Diagnostics/blob/main/supply_cleaned.ipynb)
 ---
 
 ## Project Workflows
