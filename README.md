@@ -53,6 +53,12 @@ Supply Chain Performance Dashboard
 
 ---
 
+## Supply Chain Presentation
+
+[!](Images/Global Supply Chain Presentation)
+
+---
+
 ## Strategic Recommendations
 
 * **Optimize Carrier Allocation:** Dynamic rerouting of orders away from high-friction shipping hubs during peak operational windows.
