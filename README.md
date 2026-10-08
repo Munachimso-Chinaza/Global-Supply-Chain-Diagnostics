@@ -42,9 +42,6 @@ Python Script Preview
 Supply Chain Performance Dashboard
 [![Supply Chain Performance Dashboard](Images/Dashboard.png)](https://public.tableau.com/views/GlobalSupplyChainDiagnostics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Supply Test
-[Supply](https://public.tableau.com/views/GlobalSupplyChainDiagnostics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ---
 
 ## Key Insights
