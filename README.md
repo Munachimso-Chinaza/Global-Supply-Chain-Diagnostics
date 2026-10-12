@@ -16,8 +16,8 @@ Through automated data cleaning workflows, exploratory statistical modeling, and
 ## Technology Used
 
 * **Data Processing & Automation:** Python (`Pandas`, `NumPy`)
-* **Data Visualization & Business Intelligence:** Tableau Desktop / Public, `Matplotlib`, `Seaborn`
-* **Database & Storage:** MySQL / CSV Data Lakes
+* **Data Visualization & Business Intelligence:** Tableau Public, `Matplotlib`, `Seaborn`
+* **Database & Storage:** CSV Data Lakes
 
 Python Script Preview
 
